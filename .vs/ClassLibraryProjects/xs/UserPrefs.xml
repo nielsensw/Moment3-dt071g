@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8F379D40-A391-4146-B55B-B597D18E02E7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShowCase/Program.cs">
+    <Files>
+      <File FileName="ShowCase/Program.cs" Line="65" Column="1" />
+      <File FileName="StringLibrary/jsonposts.json" />
+      <File FileName="StringLibrary/Post.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ShowCase PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

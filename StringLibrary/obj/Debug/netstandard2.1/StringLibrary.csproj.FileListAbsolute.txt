@@ -1,0 +1,9 @@
+/Users/sallynielsen/Projects/ClassLibraryProjects/StringLibrary/bin/Debug/netstandard2.1/StringLibrary.deps.json
+/Users/sallynielsen/Projects/ClassLibraryProjects/StringLibrary/bin/Debug/netstandard2.1/StringLibrary.dll
+/Users/sallynielsen/Projects/ClassLibraryProjects/StringLibrary/bin/Debug/netstandard2.1/StringLibrary.pdb
+/Users/sallynielsen/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.1/StringLibrary.csprojAssemblyReference.cache
+/Users/sallynielsen/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.1/StringLibrary.AssemblyInfoInputs.cache
+/Users/sallynielsen/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.1/StringLibrary.AssemblyInfo.cs
+/Users/sallynielsen/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.1/StringLibrary.csproj.CoreCompileInputs.cache
+/Users/sallynielsen/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.1/StringLibrary.dll
+/Users/sallynielsen/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.1/StringLibrary.pdb

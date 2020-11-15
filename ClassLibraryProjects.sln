@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLibrary", "StringLibrary\StringLibrary.csproj", "{D07956B9-774C-4D2B-8361-21679C533F87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowCase", "ShowCase\ShowCase.csproj", "{8F379D40-A391-4146-B55B-B597D18E02E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D07956B9-774C-4D2B-8361-21679C533F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07956B9-774C-4D2B-8361-21679C533F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07956B9-774C-4D2B-8361-21679C533F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07956B9-774C-4D2B-8361-21679C533F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F379D40-A391-4146-B55B-B597D18E02E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F379D40-A391-4146-B55B-B597D18E02E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F379D40-A391-4146-B55B-B597D18E02E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F379D40-A391-4146-B55B-B597D18E02E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

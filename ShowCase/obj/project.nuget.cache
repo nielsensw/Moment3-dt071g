@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f5vmTVraJ/kHE0uL+7VspAKsUcbX4q16jMc9tDqnJYeMlsIsOmfRMmp0zkLjEAYsVs19UO26onU3jTy+lkNoDA==",
+  "success": true,
+  "projectFilePath": "/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/ShowCase.csproj",
+  "expectedPackageFiles": [
+    "/Users/sallynielsen/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/sallynielsen/.nuget/packages/system.text.json/5.0.0/system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

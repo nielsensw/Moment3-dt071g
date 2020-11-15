@@ -1,0 +1,17 @@
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.csprojAssemblyReference.cache
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.AssemblyInfoInputs.cache
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.AssemblyInfo.cs
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.csproj.CoreCompileInputs.cache
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/bin/Debug/netcoreapp3.1/ShowCase.deps.json
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/bin/Debug/netcoreapp3.1/ShowCase.runtimeconfig.json
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/bin/Debug/netcoreapp3.1/ShowCase.runtimeconfig.dev.json
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/bin/Debug/netcoreapp3.1/ShowCase.dll
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/bin/Debug/netcoreapp3.1/ShowCase.pdb
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/bin/Debug/netcoreapp3.1/StringLibrary.dll
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/bin/Debug/netcoreapp3.1/StringLibrary.pdb
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.csproj.CopyComplete
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.dll
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.pdb
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.genruntimeconfig.cache
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll

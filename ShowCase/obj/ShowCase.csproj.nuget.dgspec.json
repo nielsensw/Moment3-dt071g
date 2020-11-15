@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/ShowCase.csproj": {}
+  },
+  "projects": {
+    "/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/ShowCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/ShowCase.csproj",
+        "projectName": "ShowCase",
+        "projectPath": "/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/ShowCase.csproj",
+        "packagesPath": "/Users/sallynielsen/.nuget/packages/",
+        "outputPath": "/Users/sallynielsen/Projects/ClassLibraryProjects/ShowCase/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sallynielsen/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/sallynielsen/Projects/ClassLibraryProjects/StringLibrary/StringLibrary.csproj": {
+                "projectPath": "/Users/sallynielsen/Projects/ClassLibraryProjects/StringLibrary/StringLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sallynielsen/Projects/ClassLibraryProjects/StringLibrary/StringLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sallynielsen/Projects/ClassLibraryProjects/StringLibrary/StringLibrary.csproj",
+        "projectName": "StringLibrary",
+        "projectPath": "/Users/sallynielsen/Projects/ClassLibraryProjects/StringLibrary/StringLibrary.csproj",
+        "packagesPath": "/Users/sallynielsen/.nuget/packages/",
+        "outputPath": "/Users/sallynielsen/Projects/ClassLibraryProjects/StringLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sallynielsen/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

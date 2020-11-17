@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "XnD7vcwxAa+ajkddxqDh4xIHIOgjGi+mZGcScHFoJ+K6zpq6d6N1bN1SkzmihXVpi0Ih52noURDpL/Aje+CELQ==",
+  "dgSpecHash": "oEKV2JlGbyvg1JnaytSIFcTxxHNiXVHjHVP2R8dLBD9tD1sdw/ck7Qzbf/Bk7gTGO/QqpMaaVA9f7nJVjHjuhg==",
   "success": true,
   "projectFilePath": "/Users/sallynielsen/Projects/ClassLibraryProjects/StringLibrary/StringLibrary.csproj",
   "expectedPackageFiles": [
     "/Users/sallynielsen/.nuget/packages/microsoft.bcl.asyncinterfaces/5.0.0/microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "/Users/sallynielsen/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/Users/sallynielsen/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/Users/sallynielsen/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
     "/Users/sallynielsen/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",

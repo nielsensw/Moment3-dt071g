@@ -2,8 +2,8 @@
 using UtilityLibraries;
 using System.IO;
 using System.Collections.Generic;
-using System.Text;
 using Newtonsoft.Json;
+using StringLibrary;
 
 // Console App by: Sally Nielsen
 
@@ -34,12 +34,10 @@ class Program
         string allPosts = File.ReadAllText(path);
         List<Post> myposts = JsonConvert.DeserializeObject<List<Post>>(allPosts);
 
-        // Writes out the posts from collection
-        for (int i = 0; i < myposts.Count; i++)
-        {
-            Post post1 = myposts[i];
-            Console.WriteLine("{" + i + "} " + post1.Name + ": " + post1.Content);
-        }
+        // instance of class obj
+        PostList list = new PostList();
+        // Writes out the posts from collection, through class method
+        list.writePosts(myposts);
 
         // Show options (calls method)
         printGuestbook();
@@ -73,14 +71,10 @@ class Program
                     goto startCreateContent;
 
                 };
-
-                // Adds inputs to collection
-                myposts.Add(new Post() { Name = inputName, Content = inputContent });
-
-                // Serialize collection and writes to file
-                string json = JsonConvert.SerializeObject(myposts, Formatting.Indented);
-                File.WriteAllText(path, json, Encoding.UTF8);
-
+               
+                // Class method to save new post
+                list.add(myposts, inputName, inputContent, path);
+                
                 // Starts over
                 goto Start;
             // If user press 2
@@ -88,15 +82,12 @@ class Program
 
                 Console.WriteLine("Which post do you want to delete?");
                 Console.WriteLine("Type the number of the post index and finish by pressing ENTER");
-
-                // Deletes post in Collection, depending on number (index) given
+                // User input, parse to integer for delete purpose
                 int delIndex = Convert.ToInt32(Console.ReadLine());
-                myposts.RemoveAt(delIndex);
-                // Serialize collection and writes to file
-                string jsonsave = JsonConvert.SerializeObject(myposts, Formatting.Indented);
-                File.WriteAllText(path, jsonsave, Encoding.UTF8);
+                // Method from class to delete
+                list.Delete(delIndex, myposts, path);
 
-                // Starts over
+                // Starts over/ Goes back to menu
                 goto Start;
             // If user press X
             case "x":
